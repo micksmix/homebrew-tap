@@ -4,6 +4,8 @@ Homebrew tap for [Everywhere](https://github.com/micksmix/everywhere), a native
 macOS file-search app. Users install the app with:
 
 ```sh
+brew tap micksmix/tap
+brew trust micksmix/tap
 brew install --cask micksmix/tap/everywhere
 ```
 
