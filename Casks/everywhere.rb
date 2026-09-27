@@ -1,6 +1,6 @@
 cask "everywhere" do
-  version "1.6.0"
-  sha256 "0d358dcd70a074a57469490178e919e7a6b060d12a38382dbd041746cac472d3"
+  version "1.7.0"
+  sha256 "928455bb560e3a709c43f7c31758e016015ce3d9fce2223703d9e8d58d1bbfea"
 
   url "https://github.com/micksmix/everywhere/releases/download/v#{version}/Everywhere-#{version}.zip"
   name "Everywhere"
